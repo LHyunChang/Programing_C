@@ -1,0 +1,10 @@
+﻿  Chapter22_01-1.c
+C:\Users\tjoeun\source\repos\Chapter22_01\Chapter22_01\Chapter22_01-1.c(19,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  C:\Users\tjoeun\source\repos\Chapter22_01\Chapter22_01\Chapter22_01-1.c(19,10):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\tjoeun\source\repos\Chapter22_01\Chapter22_01\Chapter22_01-1.c(21,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  C:\Users\tjoeun\source\repos\Chapter22_01\Chapter22_01\Chapter22_01-1.c(21,10):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+  Chapter22_01.vcxproj -> C:\Users\tjoeun\source\repos\Chapter22_01\x64\Debug\Chapter22_01.exe
